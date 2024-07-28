@@ -1,0 +1,1 @@
+just put some pages inside that folder and use layout.tsx to build layout for it.
